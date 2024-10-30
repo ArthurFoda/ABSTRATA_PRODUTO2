@@ -16,5 +16,5 @@ Após criar as classes, implemente uma classe principal (Main) que crie instânc
 
 ✒️ Autores Arthur dos Santos Soares - Trabalho Inicial - Atividade individual - Lista de Exercícios AC2 - INTERFACE
 
-![DIAGRAMA](./Novodiagrama.png) 
+![Diagrama aqui](./Novodiagrama.png);
 
